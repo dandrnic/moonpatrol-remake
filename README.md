@@ -1,4 +1,4 @@
-## Moon Patrol: Remake Write-Up
+## Moon Patrol: Remake
 
 ![](MoonPatrol_arcadeflyer.png)
 
